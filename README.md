@@ -2,7 +2,7 @@
 
 This Python Chat App is a simple client-server chat application that allows multiple clients to communicate with each other through a central server. It utilizes sockets for network communication and threading for handling multiple clients concurrently.
 
-#Features
+# Features-
 Real-time messaging: Clients can send and receive messages in real-time.
 Multiple clients: Multiple clients can connect to the server and chat with each other simultaneously.
 Server-based architecture: The server acts as a central point of communication, relaying messages between clients.
